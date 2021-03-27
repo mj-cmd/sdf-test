@@ -1,0 +1,7 @@
+<transactionbodycustomfield scriptid="custbody_barcode">
+    <accesslevel>2</accesslevel>
+    <displaytype>NORMAL</displaytype>
+    <fieldtype>TEXT</fieldtype>
+    <label>barcode for vendor</label>
+    <storevalue>T</storevalue>
+</transactionbodycustomfield>
